@@ -1,0 +1,7 @@
+Course: ECON 1B03   || Grade: A+
+Course: ENGINEER 1C03   || Grade: A+
+Course: ENGINEER 1EE0   || Grade: COM
+Course: MATH 1ZB3   || Grade: B+
+Course: MATH 1ZC3   || Grade: B
+Course: MATLS 1M03   || Grade: B+
+Course: PHYSICS 1E03   || Grade: A-
